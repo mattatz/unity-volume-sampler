@@ -53,7 +53,6 @@ namespace VolumeSampler
             grids[col, row, layer].Sample(p);
 
             var R = Mathf.Min(size.x, size.y, size.z);
-            var RR = R * R;
 
             while (actives.Count > 0)
             {
