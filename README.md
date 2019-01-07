@@ -22,7 +22,7 @@ Volume volume = VolumeSampler.Sample(
 
 Menu : Window -> VolumeSampler
 
-<img src="https://raw.githubusercontent.com/mattatz/unity-volume-sampler/master/Captures/VolumeSamplerWindow.png">
+<img src="https://raw.githubusercontent.com/mattatz/unity-volume-sampler/master/Captures/VolumeSamplerWindow.png" width="480px">
 
 VolumeSamplerWindow builds a Volume asset from a mesh file & save it in a project.
 
